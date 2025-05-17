@@ -1,3 +1,8 @@
+# Large Language Models for Material Property Predictions: elastic constant tensor prediction and materials design
+Here is the source code related to the article.  
+
+For the complete code and data files, please refer to: [https://doi.org/10.6084/m9.figshare.28399757.v1](https://doi.org/10.6084/m9.figshare.28399757.v1)
+
 # Reproduction Steps
 We provide a full repoduction guide with `reproduce` folder. Here are these steps.
 ## 0. Environment Configuration
