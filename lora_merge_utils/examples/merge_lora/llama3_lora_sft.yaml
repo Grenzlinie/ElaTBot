@@ -1,0 +1,13 @@
+### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
+
+### model
+model_name_or_path: /bohr/llama7bhf-elcd/v1/llama2/Llama-2-7b-chat-hf/
+adapter_name_or_path: /personal/EC/ec_project_4/ft_result/combined_training/
+template: llama2
+finetuning_type: lora
+
+### export
+export_dir: /personal/EC/robot/models/llama2-combined
+export_size: 2
+export_device: gpu
+export_legacy_format: false

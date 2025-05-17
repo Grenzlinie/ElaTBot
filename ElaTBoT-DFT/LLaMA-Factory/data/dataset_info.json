@@ -1,0 +1,26 @@
+{
+  "ec_short_train_dataset": {
+    "file_name": "ec_short_train_dataset.json"
+  },
+  "ec_short_test_dataset": {
+    "file_name": "ec_short_test_dataset.json"
+  },
+  "ec_desc_train_dataset": {
+    "file_name": "ec_desc_train_dataset.json"
+  },
+  "ec_desc_test_dataset": {
+    "file_name": "ec_desc_test_dataset.json"
+  },
+  "only_comp_desc_train": {
+    "file_name": "only_comp_desc_train.json"
+  },
+  "only_comp_desc_test": {
+    "file_name": "only_comp_desc_test.json"
+  },
+  "only_structure_desc_train": {
+    "file_name": "only_structure_desc_train.json"
+  },
+  "only_structure_desc_test": {
+    "file_name": "only_structure_desc_test.json"
+  }
+}

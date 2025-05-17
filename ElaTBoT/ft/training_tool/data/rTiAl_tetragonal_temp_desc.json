@@ -1,0 +1,77 @@
+[
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 30K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 50K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 70K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 90K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 110K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 130K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 150K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 170K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 190K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 210K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 230K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 250K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 270K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 290K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   },
+   {
+      "instruction": "Given a material description, predict its elastic tensor at 298K temperature accurately and directly using scientific logic. Provide the answer as a 6x6 Python matrix without additional comments, descriptions, or explanations. ",
+      "input": "The material is Ti11Al14 with crystal system tetragonal and composition ratio {'Ti': 44.0, 'Al': 56.0} (total is 100%). The information about the elements contained in the material is as follows. Ti has an electronegativity of 1.54, an ionization energy of 6.828 eV, a bulk modulus of 110.0 GPa, a Young's modulus of 116.0 GPa, a Poisson's ratio of 0.32, an atomic radius of 1.76 \u00c5. Al has an electronegativity of 1.61, an ionization energy of 5.986 eV, a bulk modulus of 76.0 GPa, a Young's modulus of 70.0 GPa, a Poisson's ratio of 0.35, an atomic radius of 1.18 \u00c5. ",
+      "output": ""
+   }
+]

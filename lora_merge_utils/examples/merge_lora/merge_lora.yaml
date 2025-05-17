@@ -1,0 +1,13 @@
+### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
+
+### model
+model_name_or_path: /home/wy1121535783/source_code/Models/Llama-2-7b-chat-hf # replace with your llama model path
+adapter_name_or_path: /home/wy1121535783/source_code/ElaTBoT/ft_result/combined_training/ # replace with your ElaTBot LoRA weight path
+template: llama2
+finetuning_type: lora
+
+### export
+export_dir: /home/wy1121535783/source_code/Models/ElaTBoT # replace with your export dir path
+export_size: 2
+export_device: gpu
+export_legacy_format: false

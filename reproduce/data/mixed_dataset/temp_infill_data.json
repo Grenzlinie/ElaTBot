@@ -1,0 +1,797 @@
+[
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Al': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Al"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Al': 50.0, 'Sb': 50.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "AlSb"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cs': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cs"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Nb': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Nb"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 5.0, 'Al': 95.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu5Al95"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 95.19, 'Al': 4.81} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu95.19Al4.81"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 90.02, 'Al': 9.98} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu90.02Al9.98"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 98.42, 'Ga': 1.58} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu98.42Ga1.58"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 95.85, 'Ga': 4.15} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu95.85Ga4.15"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 98.97, 'Ge': 1.03} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu98.97Ge1.03"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 98.29, 'Ge': 1.71} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu98.29Ge1.71"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 75.08, 'Au': 24.92} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu75.08Au24.92"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 75.0, 'Au': 25.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu75Au25"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 97.66, 'Ni': 2.34} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu97.66Ni2.34"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 96.98, 'Ni': 3.02} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu96.98Ni3.02"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 95.51, 'Ni': 4.49} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu95.51Ni4.49"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 93.96, 'Ni': 6.04} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu93.96Ni6.04"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 90.27, 'Ni': 9.73} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu90.27Ni9.73"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 52.8, 'Zn': 47.2} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu52.8Zn47.2"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 95.41, 'Zn': 4.59} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu95.41Zn4.59"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 95.9, 'Zn': 4.1} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu95.9Zn4.1"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 90.9, 'Zn': 9.1} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu90.9Zn9.1"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 82.9, 'Zn': 17.1} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu82.9Zn17.1"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cu': 77.3, 'Zn': 22.7} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cu77.3Zn22.7"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ga': 50.0, 'Sb': 50.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "GaSb"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ge': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ge"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Au': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Au"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Au': 97.05, 'Ni': 2.95} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Au97.05Ni2.95"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Au': 90.28, 'Ni': 9.72} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Au90.28Ni9.72"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Au': 75.8, 'Ni': 24.2} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Au75.8Ni24.2"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Au': 57.58, 'Ni': 42.42} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Au57.58Ni42.42"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Au': 75.0, 'Ag': 25.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Au75Ag25"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Au': 50.0, 'Ag': 50.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Au50Ag50"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Au': 25.0, 'Ag': 75.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Au25Ag75"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'In': 50.0, 'Sb': 50.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "InSb"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ir': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ir"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 96.03, 'Al': 3.97} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe96.03Al3.97"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 90.9, 'Al': 9.1} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe96.35Al9.65"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 85.5, 'Al': 14.5} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe85.5Al14.5"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 82.15, 'Al': 17.85} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe82.15Al17.85"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 80.17, 'Al': 19.83} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe80.17Al19.83"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 77.55, 'Al': 22.45} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe77.55Al22.45"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 76.43, 'Al': 23.57} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe76.43Al23.57"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 74.95, 'Al': 25.05} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe74.95Al25.05"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 73.03, 'Al': 26.97} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe73.03Al26.97"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 71.92, 'Al': 28.08} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe71.92Al28.08"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 66.0, 'Al': 34.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe66Al34"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Fe': 59.89, 'Al': 40.11} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Fe59.89Al40.11"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 99.83, 'Tl': 0.17} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb99.83Tl0.17"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 98.95, 'Tl': 1.05} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb98.95Tl1.05"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 98.23, 'Tl': 1.77} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb98.23Tl1.77"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 97.65, 'Tl': 2.35} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb97.65Tl2.35"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 96.5, 'Tl': 3.5} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb96.5Tl3.5"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 93.9, 'Tl': 6.1} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb93.9Tl6.1"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 85.13, 'Tl': 14.87} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb85.13Tl14.87"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 82.4, 'Tl': 17.6} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb82.4Tl17.6"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 94.99, 'Tl': 5.01} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb94.99Tl5.01"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 79.5, 'Tl': 20.5} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb79.5Tl20.5"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 68.23, 'Tl': 31.77} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb68.23Tl31.77"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 59.5, 'Tl': 40.5} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb59.5Tl40.5"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 47.34, 'Tl': 52.66} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb47.34Tl52.66"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 38.53, 'Tl': 61.47} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb38.49Tl61.41"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pb': 28.32, 'Tl': 71.68} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pb28.32Tl71.68"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Li': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Li"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Li': 98.91, 'Mg': 1.09} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Li98.91Mg1.09"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Li': 97.74, 'Mg': 2.26} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Li97.74Mg2.26"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Li': 96.99, 'Mg': 3.01} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Li96.99Mg3.01"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Li': 95.72, 'Mg': 4.28} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Li95.72Mg4.28"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 33.33, 'Cu': 66.67} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg33.33Cu66.67"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 50.0, 'Ag': 50.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "MgAg"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 66.67, 'Sn': 33.33} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg66.67Sn33.33"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mo': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mo"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mo': 93.0, 'Re': 7.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mo93Re7"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mo': 83.4, 'Re': 16.6} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mo83.4Re16.6"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mo': 73.1, 'Re': 26.9} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mo73.1Re26.9"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ni': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ni"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ni': 90.4, 'Al': 9.6} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ni90.4Al9.6"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ni': 49.4, 'Al': 50.6} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ni49.4Al50.6"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ni': 92.7, 'Cu': 7.3} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ni92.7Cu7.3"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ni': 82.2, 'Cu': 17.8} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ni82.2Cu17.8"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ni': 80.0, 'Cu': 20.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ni80Cu20"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ni': 77.2, 'Cu': 22.8} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ni77.2Cu22.8"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ni': 65.5, 'Cu': 34.5} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ni65.5Cu34.5"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ni': 53.8, 'Cu': 46.2} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ni53.8Cu46.2"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ni': 31.1, 'Cu': 68.9} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ni31.1Cu68.9"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ni': 73.8, 'Fe': 26.2} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ni73.8Fe26.2"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Nb': 75.5, 'Sn': 24.5} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Nb75.5Sn24.5"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Pd': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Pd"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'K': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "K"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Rb': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Rb"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 98.4, 'Al': 1.6} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag98.4Al1.6"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 96.1, 'Al': 3.9} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag96.1Al3.9"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 94.8, 'Al': 5.2} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag94.8Al5.2"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 98.66, 'Cd': 1.34} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag98.66Cd1.34"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 98.08, 'Cd': 1.92} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag98.08Cd1.92"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 98.0, 'Au': 2.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag98Au2"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 96.0, 'Au': 4.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag96Au4"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 91.64, 'In': 8.36} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag91.64In8.36"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 96.93, 'Mg': 3.07} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag96.93Mg3.07"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 92.67, 'Mg': 7.33} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag92.67Mg7.33"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 93.78, 'Pd': 6.22} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag93.78Pd6.22"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 96.83, 'Sn': 3.17} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag96.83Sn3.17"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 97.6, 'Zn': 2.4} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag97.6Zn2.4"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 96.47, 'Zn': 3.53} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag96.47Zn3.53"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Na': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Na"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ta': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ta"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Th': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Th"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'W': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "W"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'V': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "V"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'In': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "In"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Sn': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Sn"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'U': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "U"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Be': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Be"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Cd': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Cd"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ca': 33.33, 'Mg': 66.67} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ca33.33Mg66.67"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Co': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Co"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Dy': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Dy"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Er': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Er"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Gd': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Gd"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Hf': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Hf"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 98.98, 'In': 1.02} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg98.98In1.02"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 98.65, 'In': 1.35} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg98.65In1.35"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 98.04, 'In': 1.96} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg98.04In1.96"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 98.49, 'Li': 1.51} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg98.49Li1.51"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 96.98, 'Li': 3.02} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg96.98Li3.02"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 94.9, 'Li': 5.1} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg94.9Li5.1"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 93.0, 'Li': 7.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg93Li7"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 90.0, 'Li': 10.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg90Li10"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 87.95, 'Li': 12.05} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg87.95Li12.05"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 85.85, 'Li': 14.15} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg85.85Li14.15"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 84.06, 'Li': 15.94} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg84.06Li15.94"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 99.93, 'Ag': 0.07} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg99.93Ag0.07"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 99.74, 'Ag': 0.26} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg99.74Ag0.26"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 99.63, 'Ag': 0.37} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg99.63Ag0.37"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 99.79, 'Sn': 0.21} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg99.79Sn0.21"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 99.73, 'Sn': 0.27} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg99.73Sn0.27"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 99.57, 'Sn': 0.43} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg99.57Sn0.43"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 99.48, 'Sn': 0.52} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg99.48Sn0.52"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 99.28, 'Sn': 0.72} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg99.28Sn0.72"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 99.0, 'Sn': 1.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg99Sn1"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 99.54, 'Sn': 0.46} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg99.54Sn0.46"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 99.33, 'Sn': 0.67} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg99.33Sn0.67"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Mg': 99.06, 'Sn': 0.94} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Mg99.06Sn0.94"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Re': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Re"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ru': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ru"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ag': 66.67, 'Al': 33.33} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ag66.67Al33.33"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Tl': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Tl"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Ti': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Ti"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Y': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Y"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Zn': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Zn"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Zr': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Zr"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Sb': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Sb"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Bi': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Bi"
+   },
+   {
+      "instruction": "Below is a partial description of a material where the chemical formula has been replaced with the string '[MASK]'. ",
+      "input": "The material is [MASK] with composition ratio {'Hg': 100.0} (total is 100%). Generate the chemical formula that could replace [MASK]: ",
+      "output": "Hg"
+   }
+]

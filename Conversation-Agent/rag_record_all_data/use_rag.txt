@@ -1,0 +1,380 @@
+using rag
+
+> Entering new StuffDocumentsChain chain...
+
+
+> Entering new LLMChain chain...
+Prompt after formatting:
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know.
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 113 K
+Voigt bulk modulus: 173.93 GPa
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 363 K
+Voigt bulk modulus: 169.53 GPa
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 333 K
+Voigt bulk modulus: 170.1 GPa
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 162 K
+Voigt bulk modulus: 173.03 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 110 K
+Voigt bulk modulus: 111.65 GPa
+
+Question: What‘s the Voigt bulk modulus of cubic Ni3Al at temperature 113 K?
+Helpful Answer:
+
+> Finished chain.
+
+> Finished chain.
+  The Voigt bulk modulus of cubic Ni3Al at temperature 113 K is 172.87 GPa.
+
+using rag
+> Entering new StuffDocumentsChain chain...
+> Entering new LLMChain chain...
+Prompt after formatting:
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know.
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 162 K
+Voigt bulk modulus: 173.03 GPa
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 363 K
+Voigt bulk modulus: 169.53 GPa
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 223 K
+Voigt bulk modulus: 172.3 GPa
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 223 K
+Voigt bulk modulus: 177.13 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 170 K
+Voigt bulk modulus: 111.35 GPa
+
+Question: What‘s the Voigt bulk modulus of cubic Ni3Al at temperature 162 K?
+Helpful Answer:
+
+> Finished chain.
+
+> Finished chain.
+  The Voigt bulk modulus of cubic Ni3Al at temperature 162 K is 173.03 GPa.
+
+using rag
+> Entering new StuffDocumentsChain chain...
+
+
+> Entering new LLMChain chain...
+Prompt after formatting:
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know.
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 223 K
+Voigt bulk modulus: 172.3 GPa
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 363 K
+Voigt bulk modulus: 169.53 GPa
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 333 K
+Voigt bulk modulus: 170.1 GPa
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 162 K
+Voigt bulk modulus: 173.03 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 230 K
+Voigt bulk modulus: 110.91 GPa
+
+Question: What‘s the Voigt bulk modulus of cubic Ni3Al at temperature 223 K?
+Helpful Answer:
+
+> Finished chain.
+
+> Finished chain.
+  At 223 K, the Voigt bulk modulus of cubic Ni3Al is 172.3 GPa.
+
+using rag
+
+
+> Entering new StuffDocumentsChain chain...
+
+
+> Entering new LLMChain chain...
+Prompt after formatting:
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know.
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 113 K
+Voigt bulk modulus: 178.53 GPa
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 333 K
+Voigt bulk modulus: 175.03 GPa
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 223 K
+Voigt bulk modulus: 177.13 GPa
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 162 K
+Voigt bulk modulus: 173.03 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 50 K
+Voigt bulk modulus: 111.56 GPa
+
+Question: What‘s the Voigt bulk modulus of cubic gamma-PE16 at temperature 113 K?
+Helpful Answer:
+
+> Finished chain.
+
+> Finished chain.
+  The Voigt bulk modulus of cubic gamma-PE16 at temperature 113 K is 175.53 GPa.
+
+using rag
+
+
+> Entering new StuffDocumentsChain chain...
+
+
+> Entering new LLMChain chain...
+Prompt after formatting:
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know.
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 363 K
+Voigt bulk modulus: 174.83 GPa
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 162 K
+Voigt bulk modulus: 177.8 GPa
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 223 K
+Voigt bulk modulus: 177.13 GPa
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 303 K
+Voigt bulk modulus: 175.6 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 298 K
+Voigt bulk modulus: 109.94 GPa
+
+Question: What‘s the Voigt bulk modulus of cubic gamma-PE16 at temperature 162 K?
+Helpful Answer:
+
+> Finished chain.
+
+> Finished chain.
+  The Voigt bulk modulus of cubic gamma-PE16 at temperature 162 K is 175.33 GPa.
+
+using rag
+
+
+> Entering new StuffDocumentsChain chain...
+
+
+> Entering new LLMChain chain...
+Prompt after formatting:
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know.
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 223 K
+Voigt bulk modulus: 177.13 GPa
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 363 K
+Voigt bulk modulus: 174.83 GPa
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 333 K
+Voigt bulk modulus: 175.03 GPa
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 162 K
+Voigt bulk modulus: 177.8 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 230 K
+Voigt bulk modulus: 110.91 GPa
+
+Question: What‘s the Voigt bulk modulus of cubic gamma-PE16 at temperature 223 K?
+Helpful Answer:
+
+> Finished chain.
+
+> Finished chain.
+  The Voigt bulk modulus of cubic gamma-PE16 at temperature 223 K is 177.13 GPa.
+
+using rag
+
+
+> Entering new StuffDocumentsChain chain...
+
+
+> Entering new LLMChain chain...
+Prompt after formatting:
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know.
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 170 K
+Voigt bulk modulus: 111.35 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 150 K
+Voigt bulk modulus: 111.63 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 70 K
+Voigt bulk modulus: 111.61 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 230 K
+Voigt bulk modulus: 110.91 GPa
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 363 K
+Voigt bulk modulus: 174.83 GPa
+
+Question: What‘s the Voigt bulk modulus of tetragonal gamma-TiAl at temperature 170 K?
+Helpful Answer:
+
+> Finished chain.
+
+> Finished chain.
+  The Voigt bulk modulus of tetragonal gamma-TiAl at temperature 170 K is 111.39 GPa.
+
+using rag
+
+
+> Entering new StuffDocumentsChain chain...
+
+
+> Entering new LLMChain chain...
+Prompt after formatting:
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know.
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 230 K
+Voigt bulk modulus: 110.91 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 250 K
+Voigt bulk modulus: 110.85 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 298 K
+Voigt bulk modulus: 109.94 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 30 K
+Voigt bulk modulus: 111.45 GPa
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 363 K
+Voigt bulk modulus: 169.53 GPa
+
+Question: What‘s the Voigt bulk modulus of tetragonal gamma-TiAl at temperature 230 K?
+Helpful Answer:
+You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+
+> Finished chain.
+
+> Finished chain.
+  The Voigt bulk modulus of tetragonal gamma-TiAl at temperature 230 K is 110.91 GPa.
+
+using rag
+
+
+> Entering new StuffDocumentsChain chain...
+
+
+> Entering new LLMChain chain...
+Prompt after formatting:
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know.
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 270 K
+Voigt bulk modulus: 110.41 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 250 K
+Voigt bulk modulus: 110.85 GPa
+
+composition: gamma-TiAl
+crystal system: tetragonal (fct phase)
+temperature: 298 K
+Voigt bulk modulus: 109.94 GPa
+
+composition: Ni3Al
+crystal system: cubic (L1₂ phase)
+temperature: 283 K
+Voigt bulk modulus: 170.93 GPa
+
+composition: gamma-PE16
+crystal system: cubic (L1₂ phase)
+temperature: 253 K
+Voigt bulk modulus: 176.5 GPa
+
+Question: What‘s the Voigt bulk modulus of tetragonal gamma-TiAl at temperature 270 K?
+Helpful Answer:
+
+> Finished chain.
+
+> Finished chain.
+  The Voigt bulk modulus of tetragonal gamma-TiAl at temperature 270 K is 110.41 GPa.
