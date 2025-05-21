@@ -3,6 +3,20 @@ Here is the source code related to the [article](https://pubs.rsc.org/en/content
 
 For the complete code and data files, please refer to: [https://doi.org/10.6084/m9.figshare.28399757.v1](https://doi.org/10.6084/m9.figshare.28399757.v1)
 
+# Citation
+```bibtex
+@Article{D5DD00061K,
+author ="Liu, Siyu and Wen, Tongqi and Ye, Beilin and Li, Zhuoyuan and Liu, Han and Ren, Yang and Srolovitz, D.",
+title  ="Large Language Models for Material Property Predictions: elastic constant tensor prediction and materials design",
+journal  ="Digital Discovery",
+year  ="2025",
+pages  ="-",
+publisher  ="RSC",
+doi  ="10.1039/D5DD00061K",
+url  ="http://dx.doi.org/10.1039/D5DD00061K"
+}
+```
+
 # Reproduction Steps
 We provide a full repoduction guide with `reproduce` folder. Here are these steps.
 ## 0. Environment Configuration
