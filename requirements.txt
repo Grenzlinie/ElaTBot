@@ -129,7 +129,7 @@ typing_extensions==4.11.0
 tyro==0.8.2
 tzdata==2024.1
 uncertainties==3.1.7
-urllib3==2.2.1
+urllib3==2.6.0
 uvicorn==0.29.0
 websockets==11.0.3
 xxhash==3.4.1
