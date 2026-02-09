@@ -8,7 +8,7 @@ For the complete code and data files, please refer to: [https://doi.org/10.6084/
 > 
 > Revised statement: In our definition of symmetry correctness rate, symmetry-forbidden components are required to be exactly zero (bitwise zero), and symmetry-related components must be numerically identical within a fixed tolerance (+- 2GPa).
 > 
-> The criteria description used in the paper: ~~Symmetry correctness is defined as components within ±2 GPa where zero values are required by the Voigt format matrix.~~
+> The symmetry correctness rate criteria description written in the paper: ~~Symmetry correctness is defined as components within ±2 GPa where zero values are required by the Voigt format matrix.~~
 
 
 # Citation
