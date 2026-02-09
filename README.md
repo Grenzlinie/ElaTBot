@@ -3,12 +3,12 @@ Here is the source code related to the [article](https://pubs.rsc.org/en/content
 
 For the complete code and data files, please refer to: [https://doi.org/10.6084/m9.figshare.28399757.v1](https://doi.org/10.6084/m9.figshare.28399757.v1)
 
-> [!IMPORTANT]  
-> Correction in the description of symmetry validation for Fig.2(c) of the paper:
+> [!IMPORTANT]
+> Due to the unclear wording in the original text regarding symmetry correctness rate, we have added a clearer version to prevent misunderstandings.
 > 
-> Corrected statement: In our definition of symmetry correctness rate, symmetry-forbidden components are required to be exactly zero (bitwise zero), and symmetry-related components must be numerically identical within a fixed tolerance (+- 2GPa).
+> Revised statement: In our definition of symmetry correctness rate, symmetry-forbidden components are required to be exactly zero (bitwise zero), and symmetry-related components must be numerically identical within a fixed tolerance (+- 2GPa).
 > 
-> Original expression: ~~Symmetry correctness is defined as components within ±2 GPa where zero values are required by the Voigt format matrix.~~
+> The criteria description used in the paper: ~~Symmetry correctness is defined as components within ±2 GPa where zero values are required by the Voigt format matrix.~~
 
 
 # Citation
